@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam_70-483_Practice", "Exam_70-483_Practice\Exam_70-483_Practice.csproj", "{6658BFB7-5DA5-4D40-985C-4C1C8F4AD013}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads", "Exam_70-483_Practice\Threads.csproj", "{6658BFB7-5DA5-4D40-985C-4C1C8F4AD013}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
